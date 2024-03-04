@@ -1,0 +1,23 @@
+
+r	java:S116"]Rename this field "checkout_patientID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó‡â´
+m	java:S116!"XRename this field "checkout_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÍ¾¤
+t	java:S116$"ZRename this field "checkout_doctor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Û×”ÿÿÿÿÿ
+r	java:S116'"XRename this field "checkout_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÎÒ¨ÿÿÿÿÿ
+w	java:S116*"]Rename this field "checkout_imageView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª”ý‰øÿÿÿÿ
+q	java:S116-"\Rename this field "checkout_checkout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±š©ƒ
+w	java:S1160"]Rename this field "checkout_totalDays" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì·ÅÀøÿÿÿÿ
+x	java:S1163"^Rename this field "checkout_totalPrice" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³çŸ¤úÿÿÿÿ
+t	java:S1166"ZRename this field "checkout_payBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂŸ†€ýÿÿÿÿ
+v	java:S1169"\Rename this field "checkout_countBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”““´úÿÿÿÿ
+k
+java:S1450?"VRemove the "connect" field and declare it as a local variable in the relevant methods.(Á»·
+o
+java:S1450;"TRemove the "image" field and declare it as a local variable in the relevant methods.(“Æ²²ýÿÿÿÿ
+l
+java:S1450@"VRemove the "prepare" field and declare it as a local variable in the relevant methods.( Âû¦
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(èÀã£ÿÿÿÿÿ
+E
+java:S1068A"*Remove this unused "result" private field.(ö·±Òýÿÿÿÿ
+H
+java:S1068B"-Remove this unused "statement" private field.(„£„÷øÿÿÿÿ

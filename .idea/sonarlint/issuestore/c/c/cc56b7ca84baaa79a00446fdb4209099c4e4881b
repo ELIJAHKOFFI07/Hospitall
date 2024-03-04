@@ -1,0 +1,53 @@
+
+h	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8“ÔÁğÄ1
+h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8•ÔÁğÄ1
+X
+java:S1141Å"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8˜ÔÁğÄ1
+z
+java:S1488™"\Immediately return this expression instead of assigning it to the temporary variable "cell".(¡¶£œ8ğßÀğÄ1
+	java:S116*"^Rename this field "recordpage_mainForm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãˆó‚ûÿÿÿÿ8óàÀğÄ1
+x	java:S116-"\Rename this field "recordpage_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä€Š8óàÀğÄ1
+{	java:S1160"_Rename this field "recordpage_tableView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘éï¼8ôàÀğÄ1
+„	java:S1163"cRename this field "recordpage_col_patientID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Ë«¦ùÿÿÿÿ8ôàÀğÄ1
+y	java:S1166"^Rename this field "recordpage_col_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÁÈn8ôàÀğÄ1
+|	java:S1169"`Rename this field "recordpage_col_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ËÉà8ôàÀğÄ1
+‚	java:S116<"fRename this field "recordpage_col_mobileNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÑÕ½8ôàÀğÄ1
+‚	java:S116?"aRename this field "recordpage_col_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Êö‰ûÿÿÿÿ8ôàÀğÄ1
+	java:S116B"eRename this field "recordpage_col_dateCreated" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Â¢8ôàÀğÄ1
+ƒ	java:S116E"gRename this field "recordpage_col_dateModiftied" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“°Û­8ôàÀğÄ1
+	java:S116H"eRename this field "recordpage_col_dateDeleted" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùøğ•8ôàÀğÄ1
+{	java:S116K"`Rename this field "recordpage_col_action" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äõ ,8ôàÀğÄ1
+p
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(€Ù Ü8áÀğÄ1
+X
+java:S1161š":Add the "@Override" annotation above this method signature(Ò—µÒ8¦áÀğÄ1
+P
+java:S6126¤"2Replace this String concatenation with Text block.(İøç8«áÀğÄ1
+P
+java:S6126ª"2Replace this String concatenation with Text block.(ñ•ÄÊ8«áÀğÄ1
+Y
+java:S2696»"6Make the enclosing method "static" or remove this set.(ÜÁ×’ùÿÿÿÿ8°áÀğÄ1
+Y
+java:S2696¼"6Make the enclosing method "static" or remove this set.(¢İÄùÿÿÿÿ8±áÀğÄ1
+Y
+java:S2696½"6Make the enclosing method "static" or remove this set.(­ ×õşÿÿÿÿ8²áÀğÄ1
+Y
+java:S2696¾"6Make the enclosing method "static" or remove this set.(Õßí¬øÿÿÿÿ8²áÀğÄ1
+Y
+java:S2696¿"6Make the enclosing method "static" or remove this set.(Õ¤ÿ‘ûÿÿÿÿ8³áÀğÄ1
+Y
+java:S2696À"6Make the enclosing method "static" or remove this set.(òö™•ÿÿÿÿÿ8´áÀğÄ1
+Y
+java:S2696Ê"6Make the enclosing method "static" or remove this set.(ø³íÄşÿÿÿÿ8ÇáîğÄ1
+^	java:S125ï"<This block of commented-out lines of code should be removed.(Ùâáëıÿÿÿÿ8¨ÕÁğÄ1
+T
+java:S1128
+"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8º‘ğğÄ1
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8º‘ğğÄ1
+R
+java:S1128"5Remove this unused import 'javafx.scene.image.Image'.(‰¿½Ç8º‘ğğÄ1
+X
+java:S1128"<Remove this unused import 'javafx.scene.paint.ImagePattern'.(áººr8»‘ğğÄ1
+O
+java:S1068Q"-Remove this unused "statement" private field.(„£„÷øÿÿÿÿ8òáÀğÄ1

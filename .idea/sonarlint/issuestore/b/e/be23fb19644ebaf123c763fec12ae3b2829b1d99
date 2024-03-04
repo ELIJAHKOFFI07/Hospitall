@@ -1,0 +1,17 @@
+
+Q
+java:S1066)"/Merge this if statement with the enclosing one.(•ùÔ§øÿÿÿÿ8”ŞÏªÏ1
+G
+java:S1948"*Make "myThread" transient or serializable.(‡ù½8ŞÏªÏ1
+I
+java:S1948"'Make "frame" transient or serializable.(½şÈ¤şÿÿÿÿ8ŞÏªÏ1
+G
+java:S1948"%Make "mem" transient or serializable.(äÿ™ñøÿÿÿÿ8ŞÏªÏ1
+{
+java:S2142-"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8¡ŞÏªÏ1
+I
+java:S1125)"'Remove the unnecessary boolean literal.(•ùÔ§øÿÿÿÿ8¤ŞÏªÏ1
+k
+java:S32527"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8¥ŞÏªÏ1
+H
+java:S1602A",Remove useless curly braces around statement(°›ìU8§ŞÏªÏ1

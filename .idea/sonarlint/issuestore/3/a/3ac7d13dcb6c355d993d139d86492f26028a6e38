@@ -1,0 +1,7 @@
+
+^
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(¹Ïæø
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+B
+java:S1602",Remove useless curly braces around statement(¹Ïæø

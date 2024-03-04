@@ -1,0 +1,240 @@
+
+h	java:S112ı
+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ˆÏŒ¸Ó1
+h	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ˆÏŒ¸Ó1
+h	java:S112‡"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ÏŒ¸Ó1
+h	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ÏŒ¸Ó1
+h	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ÏŒ¸Ó1
+h	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ÏŒ¸Ó1
+h	java:S112›"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ÏŒ¸Ó1
+h	java:S112¢"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ÏŒ¸Ó1
+h	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ÏŒ¸Ó1
+h	java:S112³"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ÏŒ¸Ó1
+h	java:S112¸"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ÏŒ¸Ó1
+h	java:S112À"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰ÏŒ¸Ó1
+M
+java:S3740Í"/Provide the parametrized type for this generic.(¢÷ ˜8‰ÏŒ¸Ó1
+M
+java:S3740é"/Provide the parametrized type for this generic.(¢÷ ˜8‰ÏŒ¸Ó1
+M
+java:S3740Î"/Provide the parametrized type for this generic.(ùãòü8‰ÏŒ¸Ó1
+R
+java:S3740¬"/Provide the parametrized type for this generic.(©ìê“ùÿÿÿÿ8ŠÏŒ¸Ó1
+R
+java:S3740¸"/Provide the parametrized type for this generic.(«ÃŠ¾ûÿÿÿÿ8ŠÏŒ¸Ó1
+R
+java:S3740å	"/Provide the parametrized type for this generic.(©ìê“ùÿÿÿÿ8ŠÏŒ¸Ó1
+R
+java:S3740ô	"/Provide the parametrized type for this generic.(«ÃŠ¾ûÿÿÿÿ8ŠÏŒ¸Ó1
+R
+java:S3740€
+"/Provide the parametrized type for this generic.(«ÃŠ¾ûÿÿÿÿ8ŠÏŒ¸Ó1
+h
+java:S1192Õ"JDefine a constant instead of duplicating this literal "COUNT(id)" 4 times.(ªÏô8ÏŒ¸Ó1
+‡
+java:S1192¯"iDefine a constant instead of duplicating this literal "SELECT * FROM doctor WHERE doctor_id = '" 6 times.(Ù¤Ë¶8ÏŒ¸Ó1
+d
+java:S1192È	"FDefine a constant instead of duplicating this literal "image" 3 times.(Ô¬ç¶8ÏŒ¸Ó1
+h
+java:S1192¶"JDefine a constant instead of duplicating this literal "full_name" 4 times.(¨ÿ8ÏŒ¸Ó1
+e
+java:S1192«"GDefine a constant instead of duplicating this literal "status" 5 times.(áòî¼8ÏŒ¸Ó1
+j
+java:S1192·"LDefine a constant instead of duplicating this literal "specialized" 4 times.(í”Â¦8ÏŒ¸Ó1
+e
+java:S1192ê"GDefine a constant instead of duplicating this literal "gender" 3 times.(‚»áê8ÏŒ¸Ó1
+o
+java:S1192ª"LDefine a constant instead of duplicating this literal "description" 4 times.(ÜÃıúÿÿÿÿ8ÏŒ¸Ó1
+X
+java:S1141â"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÏŒ¸Ó1
+s	java:S117¿	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø”Ïçüÿÿÿÿ8‘ÏŒ¸Ó1
+n	java:S117À	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùä„Ù8‘ÏŒ¸Ó1
+|
+java:S1104ü"^Make appoinmentListData a static final constant or non-public and provide accessors if needed.(è»ÿ…8”ÏŒ¸Ó1
+p	java:S116<"TRename this field "main_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÔ³Ö8ÒŒ¸Ó1
+q	java:S116?"VRename this field "top_profile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¢ä*8ÒŒ¸Ó1
+s	java:S116B"WRename this field "top_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Õóá8ÒŒ¸Ó1
+v	java:S116E"URename this field "logout_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¤˜üÿÿÿÿ8ÒŒ¸Ó1
+u	java:S116H"TRename this field "date_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦å²Åøÿÿÿÿ8ÒŒ¸Ó1
+x	java:S116K"WRename this field "current_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÛ¦¬şÿÿÿÿ8ÒŒ¸Ó1
+w	java:S116N"VRename this field "nav_adminID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùø¥˜úÿÿÿÿ8ÒŒ¸Ó1
+s	java:S116Q"WRename this field "nav_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’³Ôê8ÒŒ¸Ó1
+y	java:S116T"XRename this field "dashboard_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÚæ¿ÿÿÿÿÿ8ÒŒ¸Ó1
+x	java:S116W"WRename this field "patients_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ï¥øÿÿÿÿ8ÒŒ¸Ó1
+w	java:S116Z"[Rename this field "appointments_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Üó®8ÒŒ¸Ó1
+w	java:S116]"VRename this field "profile_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öàü´ıÿÿÿÿ8ÒŒ¸Ó1
+z	java:S116`"YRename this field "dashboard_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¿Í‹üÿÿÿÿ8ÒŒ¸Ó1
+x	java:S116c"WRename this field "dashboard_IP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¾ğÏúÿÿÿÿ8ÒŒ¸Ó1
+s	java:S116f"WRename this field "dashboard_TP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º´¡¤8ÒŒ¸Ó1
+x	java:S116i"WRename this field "dashboard_AP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹áäüÿÿÿÿ8ÒŒ¸Ó1
+s	java:S116l"WRename this field "dashboard_tA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÀÂó8ÒŒ¸Ó1
+r	java:S116n"VRename this field "patient_tof" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÚ“8ÒŒ¸Ó1
+s	java:S116p"XRename this field "patientof_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ d8ÒŒ¸Ó1
+|	java:S116s"[Rename this field "consultation_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øÕ¡ıÿÿÿÿ8ÒŒ¸Ó1
+}	java:S116u"\Rename this field "dashboad_chart_PD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ´Ìóÿÿÿÿÿ8ÒŒ¸Ó1
+x	java:S116x"\Rename this field "dashboad_chart_DD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çó—Ö8ÒŒ¸Ó1
+~	java:S116{"]Rename this field "dashboad_tableView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÙÏ€üÿÿÿÿ8ÒŒ¸Ó1
+†	java:S116~"eRename this field "dashboad_col_appointmentID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬©‰Ôúÿÿÿÿ8ÒŒ¸Ó1
+y	java:S116"\Rename this field "dashboad_col_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ªú8ÒŒ¸Ó1
+€	java:S116„"cRename this field "dashboad_col_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş³àÖ8ÒŒ¸Ó1
+‰	java:S116‡"gRename this field "dashboad_col_appointmentDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÛÁ“úÿÿÿÿ8ÒŒ¸Ó1
+€	java:S116Š"^Rename this field "dashboad_col_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÉáÕüÿÿÿÿ8ÒŒ¸Ó1
+z	java:S116"XRename this field "patients_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‹±‘øÿÿÿÿ8ÒŒ¸Ó1
+z	java:S116"]Rename this field "patients_patientID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÎã”8ÒŒ¸Ó1
+|	java:S116“"_Rename this field "patients_patientName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÔ¤À8ÒŒ¸Ó1
+‚	java:S116–"`Rename this field "patients_mobileNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´´Ù­ûÿÿÿÿ8ÒŒ¸Ó1
+~	java:S116™"\Rename this field "patients_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“š áşÿÿÿÿ8ÒŒ¸Ó1
+x	java:S116œ"[Rename this field "patients_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ãÓš8ÒŒ¸Ó1
+€	java:S116Ÿ"^Rename this field "patients_confirmBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¡àûÿÿÿÿ8ÒŒ¸Ó1
+}	java:S116¢"`Rename this field "patients_PA_patientID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ‰À8ÒŒ¸Ó1
+|	java:S116¥"_Rename this field "patients_PA_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â§¨»8ÒŒ¸Ó1
+	java:S116¨"bRename this field "patients_PA_dateCreated" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È™‹Æ8ÒŒ¸Ó1
+	java:S116«"bRename this field "patients_PI_patientName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‡Ö¯8ÒŒ¸Ó1
+	java:S116®"]Rename this field "patients_PI_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¢Äéıÿÿÿÿ8ŸÒŒ¸Ó1
+…	java:S116±"cRename this field "patients_PI_mobileNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­…éâøÿÿÿÿ8ŸÒŒ¸Ó1
+{	java:S116´"^Rename this field "patients_PI_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¶©¦8ŸÒŒ¸Ó1
+z	java:S116·"]Rename this field "patients_PI_addBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º²áˆ8ŸÒŒ¸Ó1
+‚	java:S116º"`Rename this field "patients_PI_recordBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ê‘€øÿÿÿÿ8ŸÒŒ¸Ó1
+~	java:S116½"\Rename this field "appointments_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æà¼µûÿÿÿÿ8ŸÒŒ¸Ó1
+y	java:S116¿"\Rename this field "consultation_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µèıá8ŸÒŒ¸Ó1
+ƒ	java:S116Â"aRename this field "appointments_tableView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¶üÿÿÿÿ8ŸÒŒ¸Ó1
+‹	java:S116Å"iRename this field "appointments_col_appointmentID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î“Òıÿÿÿÿ8ŸÒŒ¸Ó1
+}	java:S116È"`Rename this field "appointments_col_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Éö8ŸÒŒ¸Ó1
+„	java:S116Ë"bRename this field "appointments_col_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éµİıÿÿÿÿ8ŸÒŒ¸Ó1
+…	java:S116Î"iRename this field "appointments_col_contactNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÔÏ8ŸÒŒ¸Ó1
+‰	java:S116Ñ"gRename this field "appointments_col_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŞÇäùÿÿÿÿ8ŸÒŒ¸Ó1
+‚	java:S116Ô"`Rename this field "appointments_col_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÅÚşÿÿÿÿ8ŸÒŒ¸Ó1
+ƒ	java:S116×"fRename this field "appointments_col_dateModify" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ®Î“8ŸÒŒ¸Ó1
+ƒ	java:S116Ú"fRename this field "appointments_col_dateDelete" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ğÎ8ŸÒŒ¸Ó1
+~	java:S116İ"bRename this field "appointments_col_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶©ƒ(8ŸÒŒ¸Ó1
+„	java:S116à"bRename this field "appointments_col_action" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áé°²øÿÿÿÿ8ŸÒŒ¸Ó1
+†	java:S116ã"dRename this field "appointment_appointmentID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ôæşÿÿÿÿ8ŸÒŒ¸Ó1
+}	java:S116æ"[Rename this field "appointment_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÍ«µşÿÿÿÿ8ŸÒŒ¸Ó1
+	java:S116é"]Rename this field "appointment_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šéÿ®ÿÿÿÿÿ8ŸÒŒ¸Ó1
+	java:S116ì"bRename this field "appointment_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦­Õ–8ŸÒŒ¸Ó1
+}	java:S116ï"`Rename this field "appointment_diagnosis" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÒì¥8ŸÒŒ¸Ó1
+‚	java:S116ò"`Rename this field "appointment_treatment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì›ì˜ùÿÿÿÿ8ŸÒŒ¸Ó1
+	java:S116õ"cRename this field "appointment_mobileNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãì–"8ŸÒŒ¸Ó1
+€	java:S116ø"^Rename this field "appointment_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç€œ»úÿÿÿÿ8ŸÒŒ¸Ó1
+	java:S116û"]Rename this field "appointment_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¯Ñüÿÿÿÿ8ŸÒŒ¸Ó1
+|	java:S116ş"_Rename this field "appointment_schedule" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®™ı¸8ŸÒŒ¸Ó1
+‚	java:S116"`Rename this field "appointment_insertBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“èèîûÿÿÿÿ8ŸÒŒ¸Ó1
+}	java:S116„"`Rename this field "appointment_updateBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¯¦®8ŸÒŒ¸Ó1
+|	java:S116‡"_Rename this field "appointment_clearBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠêËÉ8ŸÒŒ¸Ó1
+}	java:S116Š"`Rename this field "appointment_deleteBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÏò¹8ŸÒŒ¸Ó1
+w	java:S116"ZRename this field "patients_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‹Å…8ŸÒŒ¸Ó1
+t	java:S116"WRename this field "profile_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µŸå®8ŸÒŒ¸Ó1
+{	java:S116“"^Rename this field "profile_circleImage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ä™Ï8ŸÒŒ¸Ó1
+~	java:S116–"\Rename this field "profile_importBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Â‰øÿÿÿÿ8ŸÒŒ¸Ó1
+ƒ	java:S116™"aRename this field "profile_label_doctorID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÒ€‘ÿÿÿÿÿ8ŸÒŒ¸Ó1
+	java:S116œ"]Rename this field "profile_label_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óºÜ¨ÿÿÿÿÿ8ŸÒŒ¸Ó1
+€	java:S116Ÿ"^Rename this field "profile_label_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØëÊªùÿÿÿÿ8ŸÒŒ¸Ó1
+€	java:S116¢"dRename this field "profile_label_dateCreated" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‹¡8ŸÒŒ¸Ó1
+}	java:S116¥"[Rename this field "profile_doctorID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¯Ìùÿÿÿÿ8ŸÒŒ¸Ó1
+s	java:S116¨"WRename this field "profile_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€°•d8¡ÒŒ¸Ó1
+u	java:S116«"XRename this field "profile_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿé•8¡ÒŒ¸Ó1
+{	java:S116®"YRename this field "profile_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¶ˆÏüÿÿÿÿ8¡ÒŒ¸Ó1
+	java:S116±"_Rename this field "profile_mobileNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‹–Åıÿÿÿÿ8¡ÒŒ¸Ó1
+v	java:S116´"ZRename this field "profile_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¬!8¡ÒŒ¸Ó1
+€	java:S116·"^Rename this field "profile_specialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„»¤ùÿÿÿÿ8¡ÒŒ¸Ó1
+v	java:S116º"YRename this field "profile_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ°ïÑ8¡ÒŒ¸Ó1
+y	java:S116½"\Rename this field "profile_updateBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İàÏ‚8¡ÒŒ¸Ó1
+‚
+java:S1450¸"_Remove the "dashboardGetData" field and declare it as a local variable in the relevant methods.(ºîİ’şÿÿÿÿ8¤ÒŒ¸Ó1
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(çŒ”8¿ÒŒ¸Ó1
+\
+java:S1854¶">Remove this useless assignment to local variable "doctorName".(¨ÿ8¿ÒŒ¸Ó1
+\
+java:S1854ô">Remove this useless assignment to local variable "doctorName".(¨ÿ8¿ÒŒ¸Ó1
+M
+java:S1481¬"/Remove this unused "doctorName" local variable.(ÿ€˜‰8ÁÒŒ¸Ó1
+M
+java:S1481ê"/Remove this unused "doctorName" local variable.(ÿ€˜‰8ÆÒŒ¸Ó1
+v
+java:S3012Ì"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(õÑ¯
+8ÒÒŒ¸Ó1
+L
+java:S1905ş")Remove this unnecessary cast to "String".(‘ù¥–ıÿÿÿÿ8ÖÒŒ¸Ó1
+G
+java:S1905ˆ")Remove this unnecessary cast to "String".(¯¢Ã¸8ØÒŒ¸Ó1
+Y
+java:S1854Ù";Remove this useless assignment to local variable "sqlDate".(Ï±äí8İÒŒ¸Ó1
+J
+java:S1481Ù",Remove this unused "sqlDate" local variable.(Ï±äí8ŞÒŒ¸Ó1
+^	java:S125ß"<This block of commented-out lines of code should be removed.(ŒŞèùÿÿÿÿ8ŞÒŒ¸Ó1
+~
+java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÉíÛÜÿÿÿÿÿ8àÒŒ¸Ó1
+v
+java:S3012©"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(õÑ¯
+8âÒŒ¸Ó1
+w
+java:S3012µ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÛÚ¨8äÒŒ¸Ó1
+u
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÇµÔ·ÿÿÿÿÿ8ëÒŒ¸Ó1
+T
+java:S2696	"6Make the enclosing method "static" or remove this set.(œªŸü8õÒŒ¸Ó1
+v
+java:S3012â	"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(õÑ¯
+8ıÒŒ¸Ó1
+w
+java:S3012ñ	"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÛÚ¨8ÿÒŒ¸Ó1
+w
+java:S3012ı	"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÛÚ¨8ÿÒŒ¸Ó1
+S
+java:S2696µ
+"6Make the enclosing method "static" or remove this set.(İşÿF8‚ÓŒ¸Ó1
+Y
+java:S2696¶
+"6Make the enclosing method "static" or remove this set.(İßˆÎùÿÿÿÿ8„ÓŒ¸Ó1
+S
+java:S2696À
+"6Make the enclosing method "static" or remove this set.(İşÿF8„ÓŒ¸Ó1
+Y
+java:S2696Á
+"6Make the enclosing method "static" or remove this set.(İßˆÎùÿÿÿÿ8­­¸Ó1
+Y
+java:S2696Â
+"6Make the enclosing method "static" or remove this set.(øÂàûÿÿÿÿ8„ÓŒ¸Ó1
+T
+java:S2696Ã
+"6Make the enclosing method "static" or remove this set.(¼ÿ¯ª8„ÓŒ¸Ó1
+Y
+java:S2696Ä
+"6Make the enclosing method "static" or remove this set.(´³†°ÿÿÿÿÿ8„ÓŒ¸Ó1
+T
+java:S2696Å
+"6Make the enclosing method "static" or remove this set.(¦Ò•À8„ÓŒ¸Ó1
+Y
+java:S2696Æ
+"6Make the enclosing method "static" or remove this set.(…–ºÌşÿÿÿÿ8„ÓŒ¸Ó1
+Y
+java:S2696Ç
+"6Make the enclosing method "static" or remove this set.(öŸ•×şÿÿÿÿ8„ÓŒ¸Ó1
+T
+java:S2696È
+"6Make the enclosing method "static" or remove this set.(¯Ã½½8…ÓŒ¸Ó1
+Y
+java:S2696É
+"6Make the enclosing method "static" or remove this set.(‡Ï„¢ÿÿÿÿÿ8®­¸Ó1
+T
+java:S2696Û
+"6Make the enclosing method "static" or remove this set.(œªŸü8°­¸Ó1
+X
+java:S1161å
+":Add the "@Override" annotation above this method signature(“–ış8´­¸Ó1
+|
+java:S2142ê
+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8¶­¸Ó1
+J
+java:S1602í
+",Remove useless curly braces around statement(ÃÉş©8¶­¸Ó1
+u
+java:S3776ö
+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÛŒ¦…ıÿÿÿÿ8¸­¸Ó1
+J
+java:S1128 "(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8¦×¸Ó1
+B
+java:S1128!"%Remove this unused import 'java.awt'.(ï´µ©8¦×¸Ó1
+[
+java:S1128""9Remove this unused import 'java.awt.image.BufferedImage'.(×íĞ‡şÿÿÿÿ8¦×¸Ó1

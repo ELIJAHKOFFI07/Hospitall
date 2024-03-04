@@ -1,0 +1,34 @@
+
+K
+java:S3740ø"/Provide the parametrized type for this generic.(†óéÔúÿÿÿÿ
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(Œ¾²èúÿÿÿÿ
+F
+java:S3740"/Provide the parametrized type for this generic.( ƒÁ
+M
+java:S1153£"1Directly append the argument of String.valueOf().(ö¬­Àÿÿÿÿÿ
+s	java:S116*"^Rename this field "editDoctor_doctorID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô÷î
+s	java:S116-"^Rename this field "editDoctor_fullName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÜš»
+p	java:S1160"[Rename this field "editDoctor_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âí‘Ã
+x	java:S1163"^Rename this field "editDoctor_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø±µ¿ÿÿÿÿÿ
+v	java:S1166"aRename this field "editDoctor_specialized" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¹Ü
+v	java:S1169"\Rename this field "editDoctor_gender" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç‹¬ëúÿÿÿÿ
+|	java:S116<"bRename this field "editDoctor_mobileNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—üÍËşÿÿÿÿ
+y	java:S116?"_Rename this field "editDoctor_imageView" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ı™ûÿÿÿÿ
+y	java:S116B"_Rename this field "editDoctor_importBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬“¹­üÿÿÿÿ
+w	java:S116E"]Rename this field "editDoctor_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†œ®Úúÿÿÿÿ
+v	java:S116H"\Rename this field "editDoctor_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”˜´¿ıÿÿÿÿ
+y	java:S116K"_Rename this field "editDoctor_updateBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì«Ò„ùÿÿÿÿ
+y	java:S116N"_Rename this field "editDoctor_cancelBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( œ²÷øÿÿÿÿ
+p
+java:S1450V"URemove the "result" field and declare it as a local variable in the relevant methods.(ö·±Òıÿÿÿÿ
+L
+java:S2696a"6Make the enclosing method "static" or remove this set.(œªŸü
+n
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ƒÁüÿÿÿÿ
+p
+java:S3012õ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(àÜÍ
+p
+java:S3012€"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ù÷
+o
+java:S3012‹"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(£óû|

@@ -1,0 +1,9 @@
+
+t
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "connect".(İöÖ|
+\
+java:S1118	":Add a private constructor to hide the implicit public one.(Ñ°Ù®şÿÿÿÿ8ˆŠö¯Å1
+c
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¥è­”ùÿÿÿÿ
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Šö¯Å1

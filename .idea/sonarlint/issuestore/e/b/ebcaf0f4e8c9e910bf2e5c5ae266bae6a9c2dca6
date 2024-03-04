@@ -1,0 +1,47 @@
+
+h	java:S112¾"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ùâ¼ÛÌ1
+M
+java:S3740Ó"/Provide the parametrized type for this generic.(”€Ÿ“8Ûâ¼ÛÌ1
+y
+java:S1192©"[Define a constant instead of duplicating this literal "Gestion de cabinet medical" 3 times.(ıŠ8İâ¼ÛÌ1
+p	java:S116-"TRename this field "main_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÔ³Ö8ôã¼ÛÌ1
+q	java:S1160"URename this field "login_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ê¦ç8ôã¼ÛÌ1
+z	java:S1163"YRename this field "login_doctorID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê–Ôüıÿÿÿÿ8ôã¼ÛÌ1
+u	java:S1166"YRename this field "login_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÙÃÌ8ôã¼ÛÌ1
+y	java:S1169"]Rename this field "login_showPassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨‘Ù°8ôã¼ÛÌ1
+u	java:S116<"YRename this field "login_checkBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á„Ô8ôã¼ÛÌ1
+u	java:S116?"YRename this field "login_loginBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á´ÌØ8ôã¼ÛÌ1
+q	java:S116B"URename this field "login_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËßÊ‚8ôã¼ÛÌ1
+y	java:S116E"]Rename this field "login_registerHere" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¸¦8ôã¼ÛÌ1
+y	java:S116H"XRename this field "register_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»–µÆÿÿÿÿÿ8õã¼ÛÌ1
+x	java:S116K"\Rename this field "register_fullName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’‹´–8õã¼ÛÌ1
+u	java:S116N"YRename this field "register_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³§©ç8õã¼ÛÌ1
+x	java:S116Q"\Rename this field "register_doctorID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†òçË8õã¼ÛÌ1
+w	java:S116T"\Rename this field "register_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à§“8õã¼ÛÌ1
+	java:S116W"`Rename this field "register_showPassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³»Ş—øÿÿÿÿ8õã¼ÛÌ1
+}	java:S116Z"\Rename this field "register_checkBox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßæËÜşÿÿÿÿ8õã¼ÛÌ1
+~	java:S116]"]Rename this field "register_signupBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„«´üÿÿÿÿ8õã¼ÛÌ1
+x	java:S116`"]Rename this field "register_loginHere" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é˜ª
+8õã¼ÛÌ1
+x	java:S116i"WRename this field "doctor_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß²Îıÿÿÿÿ8õã¼ÛÌ1
+{	java:S116k"ZRename this field "restoredoc_info" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùùšùÿÿÿÿ8õã¼ÛÌ1
+}	java:S116m"\Rename this field "recup_doctor_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚„Çîüÿÿÿÿ8õã¼ÛÌ1
+t	java:S116o"XRename this field "doctor_forgot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µú´å8õã¼ÛÌ1
+v	java:S116r"ZRename this field "previous_doctor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÏ„‹8õã¼ÛÌ1
+o
+java:S3776v"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ì‰ãÈ8€ä¼ÛÌ1
+T
+java:S2696 "6Make the enclosing method "static" or remove this set.(æï©ä8ˆä¼ÛÌ1
+Y
+java:S2696¡"6Make the enclosing method "static" or remove this set.(²Ş¥Àıÿÿÿÿ8‰ä¼ÛÌ1
+J
+java:S1602ª",Remove useless curly braces around statement(Êè½Ê8“—ÒßÌ1
+p
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¸­·æ8ä¼ÛÌ1
+w
+java:S3012Ğ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(”Í€8°ä¼ÛÌ1
+p
+java:S1871›"MThis branch's code block is the same as the block for the branch on line 395.(àÁâØúÿÿÿÿ8¹ä¼ÛÌ1
+p	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÁ ÿşÿÿÿÿ8¼ä¼ÛÌ1
+Z
+java:S1128"8Remove this unused import 'javafx.application.Platform'.(§“óùÿÿÿÿ8ßæÑßÌ1

@@ -1,0 +1,10 @@
+
+r	java:S116"XRename this field "doctor_circle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şõ×şÿÿÿÿ
+i	java:S116"TRename this field "doctor_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô»¢ı
+o	java:S116"ZRename this field "doctor_fullName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ŒŒÄ
+z	java:S116!"`Rename this field "doctor_specialization" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óı‘–üÿÿÿÿ
+l	java:S116$"WRename this field "doctor_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¬
+œ
+java:S11866"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÛŒ¦…ıÿÿÿÿ
+o
+java:S1450&"TRemove the "image" field and declare it as a local variable in the relevant methods.(“Æ²²ıÿÿÿÿ

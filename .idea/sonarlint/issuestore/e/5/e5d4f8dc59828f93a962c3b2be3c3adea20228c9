@@ -1,0 +1,12 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îçÓ×
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îçÓ×
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÅËæúÿÿÿÿ
+>
+java:S5411("(Use a primitive boolean expression here.(íŞâŸ
+r	java:S116"XRename this field "previous_hide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÃĞ™üÿÿÿÿ
+t	java:S116"ZRename this field "new_window_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÃĞ™üÿÿÿÿ
+_
+java:S1659"DDeclare "fenetre" and all following declarations on a separate line.(öÃĞ™üÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'javafx.scene.layout.VBox'.(íÆáÂùÿÿÿÿ
